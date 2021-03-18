@@ -1,0 +1,29 @@
+ul{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    min-width: 350px;
+    margin: 0 auto;
+}
+
+li span{
+    font-weight: bold;
+}
+
+img{
+    max-width: 60%;
+    display: block;
+    margin: 0 auto;
+}
+
+li{
+    margin-bottom: 2%;
+}
+
+#comments{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    min-width: 350px;
+    margin: 0 auto;
+}
